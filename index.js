@@ -1,2 +1,2 @@
 // Write your solution here!
-const appendPet = ["Odie"]
+const pet = ["Odie"]
