@@ -1,2 +1,2 @@
 // Write your solution here!
-const append = ["Odie"]
+const append = ["Milo", "Otis", "Garfield", "Odie"]
